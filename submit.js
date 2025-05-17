@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'; // if using node v18+, native fetch is available, else install node-fetch
 
 const contactEmail = "ashutosh.chaudhari_comp21@pccoer.in";  // Replace with your email
-const githubUrl = "https://gist.github.com/YOUR_ACCOUNT/GIST_ID";  // Replace with your secret gist URL
+const githubUrl = "https://gist.github.com/CaptN3moo/955573ed3017f232f445ceabf4346ab8";  // Replace with your secret gist URL
 const framework = "react";
 
 const body = JSON.stringify({
